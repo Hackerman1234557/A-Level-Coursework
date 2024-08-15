@@ -7,3 +7,4 @@ The function of the program is very simplistic; the key is randomly generated
 from a string containing all the letters in the English alphabet, and each
 character in the Plaintext has a corresponding character in the ciphertext
 as its key.
+The grade acheived for this project was 59/70
